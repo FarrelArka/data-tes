@@ -1,6 +1,6 @@
 ---
 
-````markdown
+
 # 📊 Auto CSV Analyzer (Mahoraga Style)
 
 Tool Python ini otomatis membaca semua file `.csv` dalam folder `data/`, lalu memberi opsi ke user untuk memilih dataset mana yang mau dianalisis.  
